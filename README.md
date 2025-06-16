@@ -31,7 +31,7 @@
         <div class="container px-4 px-lg-5">
             <!-- Heading Row-->
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
-                <div class="col-lg-7"><!img class="img-fluid rounded mb-4 mb-lg-0" src="https://github.com/Delichon1/Delichon1.github.io/blob/main/%D0%91%D1%83%D1%84%D0%B5%D1%80%20%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D0%B002.jpg" alt="..." /></div>
+                <div class="col-lg-7"><!img class="img-fluid rounded mb-4 mb-lg-0" src="https://github.com/Delichon1/Delichon1.github.io/blob/main/%D0%91%D1%83%D1%84%D0%B5%D1%80%20%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D0%B002.jpg" alt="The LOGO" /></div>
                 <div class="col-lg-5">
                     <h1 class="font-weight-light">Elena Shenker</h1>
                     <p>Specialist with extensive expertise, ready for new challenges and new knowledge. Long-term work in software, design, manufacturing, and consultant companies. Highly skilled with computer and software packages. Proficient in content management workflows and development of different type of documentation. </p>
